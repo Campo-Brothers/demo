@@ -1,0 +1,10 @@
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\bin\Debug\TestImagicleLibrary.exe.config
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\bin\Debug\TestImagicleLibrary.exe
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\bin\Debug\TestImagicleLibrary.pdb
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\bin\Debug\ImagicleLibrary.dll
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\bin\Debug\log4net.dll
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\obj\Debug\TestImagicleLibrary.csprojAssemblyReference.cache
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\obj\Debug\TestImagicleLibrary.csproj.CopyComplete
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\obj\Debug\TestImagicleLibrary.exe
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\obj\Debug\TestImagicleLibrary.pdb
+C:\Users\lucacampodallorto\source\repos\TestImagicleLibrary\TestImagicleLibrary\bin\Debug\logconfiguration.xml

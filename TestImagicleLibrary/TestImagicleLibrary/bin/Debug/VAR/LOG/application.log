@@ -1,0 +1,7 @@
+2020-02-15 11:03:48,736 [ INFO] [  1] => [RollingFile] [Program] prova: valore 1 {True}
+2020-02-15 11:05:54,053 [ INFO] [  1] => [TestImagicleLibrary] [Program] prova: valore 1 {True}
+2020-02-15 11:08:53,983 [ INFO] [  1] => [TestImagicleLibrary] [Program] prova: valore 1 {True}
+2020-02-15 11:13:56,577 [ INFO] [  1] => [TestImagicleLibrary] [Program] prova: valore 1 {True}
+2020-02-15 11:24:39,799 [ INFO] [  1] => [TestImagicleLibrary] [Program] prova: valore 1 {True}
+2020-02-15 11:33:03,149 [DEBUG] [  1] => [TestImagicleLibrary] [Program] prova: valore 2 {True}
+2020-02-15 11:33:03,149 [DEBUG] [  1] => [TestImagicleLibrary] [Program] prova: valore 2 {True}
