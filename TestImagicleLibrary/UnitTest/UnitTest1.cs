@@ -15,6 +15,7 @@ namespace UnitTest
         public void Setup()
         {
             _loggerFactory = A.Fake<ILoggerFactory>();
+            int a = 0;
         }
 
         [Test]
